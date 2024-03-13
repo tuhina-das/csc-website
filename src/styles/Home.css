@@ -139,7 +139,7 @@
 /* CHAPTERS STYLING */
 .chapters {
     height: 75vh;
-    background-image: url("../assets/chapters-bg.webp");
+    background-image: url("../assets/Home/chapters-bg.webp");
     background-size: cover;
     background-position: top center;
     padding-top: 5px;

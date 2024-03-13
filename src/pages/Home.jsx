@@ -1,10 +1,10 @@
 import React from 'react';
 import '../styles/Home.css';
-import HeroImg from '../assets/csc-hero-img.png';
-import Collab from '../assets/collab.webp';
-import Conferences from '../assets/conferences.png';
-import Competitions from '../assets/competitions.png';
-import Volunteering from '../assets/volunteering.png';
+import HeroImg from '../assets/Home/csc-hero-img.png';
+import Collab from '../assets/Home/collab.webp';
+import Conferences from '../assets/Home/conferences.png';
+import Competitions from '../assets/Home/competitions.png';
+import Volunteering from '../assets/Home/volunteering.png';
 import { Link } from 'react-router-dom';
 
 function Home() {
