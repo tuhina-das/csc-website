@@ -1,0 +1,20 @@
+.chapter-hero-img{
+    width:100%;
+}
+
+.why-box{
+    max-height: 100vh;
+}
+
+.why-header{
+    height:15vh;    
+    margin: auto;
+    padding-top: 5vh;
+    text-align: center;
+    font-family: ;
+}
+
+.why-information{
+    background-color: #3D9BE9;
+    min-height:80vh;
+}
