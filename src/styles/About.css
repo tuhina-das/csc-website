@@ -1,0 +1,10 @@
+
+.about-hero{
+    display: flex;
+    width: 100%;
+    min-height: 25vh;
+    max-height: 50vh;
+    background-image: url("../assets/About/about-hero-img.png");
+    background-position: 20% 25%;
+    background-size: cover;
+}

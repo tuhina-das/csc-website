@@ -1,0 +1,68 @@
+@font-face {
+    font-family: 'Red Hat Display Light';
+    src: url("../assets/csc-fonts//static/RedHatDisplay-Light.ttf");
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.about-options-box{
+    display: flex;
+}
+
+.about-navbar {
+    position: relative;
+    display: flex;
+    align-items: center;
+    min-height: 7vh;
+    max-height: 10vh;
+    width: 100%;
+    padding: 0.5rem 0rem;
+    background-color: #fff;
+    color: black;
+    /* box-shadow: 0 2px 2px 2px rgba(9, 9, 9, 0.23); */
+    justify-content: center;
+}
+
+.about-navOption {
+    transition: 0.3s;
+    margin: 0 20px 0 20px;
+    flex-direction: row;
+    float: right;
+    padding:10px;
+    width:10vw;
+    .link {
+        color: rgb(0, 0, 0);
+        text-decoration: none;
+        margin: 10px 0 10px 10px;
+        font-family: 'Red Hat Display Light';
+    }
+    border-bottom: solid 2px #3D9BE9;
+}
+
+.about-navOption:hover{
+    cursor: pointer;
+    /* 16CF10 */
+    border-bottom: solid 2px #141851;
+    .link{
+        font-weight: bold;
+    }
+}
+
+@media(max-width:800px){
+    .about-options-box{
+        /* border:solid blue 5px; */
+        display: flex;
+        /* overflow-x: scroll; */
+        height:5vh;
+        overflow-x: scroll;
+        overflow-y: scroll;
+    }
+    .about-navOption{
+        width: fit-content;
+        padding: 10px 10px 0 10px;
+    }
+}

@@ -1,0 +1,36 @@
+
+.App {
+  text-align: center;
+  max-width:100vw;
+  width:100vw;
+  height:100vh;
+}
+
+@font-face {
+  font-family: 'Red Hat Display Bold';
+  src: url("./assets/csc-fonts/static/RedHatDisplay-Bold.ttf");
+}
+
+@font-face {
+  font-family: 'Red Hat Display Light';
+  src: url("./assets/csc-fonts//static/RedHatDisplay-Light.ttf");
+}
+
+h1{
+  font-family: 'Red Hat Display Bold';
+}
+
+p{
+  font-family: 'Red Hat Display Light';
+}
+
+.small{
+  border:solid blue 5px;
+  max-width: fit-content;
+  margin:auto;
+}
+
+Navbar{
+  z-index: 5;
+}
+
