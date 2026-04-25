@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/csc-website/static/css/main.b977ab89.css",
-    "main.js": "/csc-website/static/js/main.3fe8b45a.js",
+    "main.js": "/csc-website/static/js/main.8f23d257.js",
     "static/js/453.419a5d54.chunk.js": "/csc-website/static/js/453.419a5d54.chunk.js",
     "static/media/about-hero-img.png": "/csc-website/static/media/about-hero-img.2fed924c5197a3021ddf.png",
     "static/media/community-bg.png": "/csc-website/static/media/community-bg.8431fda2f89755fff799.png",
@@ -34,11 +34,11 @@
     "static/media/sriram.webp": "/csc-website/static/media/sriram.f7514a7034a62734d934.webp",
     "index.html": "/csc-website/index.html",
     "main.b977ab89.css.map": "/csc-website/static/css/main.b977ab89.css.map",
-    "main.3fe8b45a.js.map": "/csc-website/static/js/main.3fe8b45a.js.map",
+    "main.8f23d257.js.map": "/csc-website/static/js/main.8f23d257.js.map",
     "453.419a5d54.chunk.js.map": "/csc-website/static/js/453.419a5d54.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b977ab89.css",
-    "static/js/main.3fe8b45a.js"
+    "static/js/main.8f23d257.js"
   ]
 }
